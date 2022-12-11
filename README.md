@@ -3,4 +3,4 @@
 
 Faxendo alterações
 
-Linha adicionnada no site!
+Linha adicionada no site!
