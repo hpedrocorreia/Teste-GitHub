@@ -1,0 +1,57 @@
+.menu {
+    background-color: beige;
+    height: 50px;
+    padding: 0px;
+}
+
+.menu img {
+    position: relative;
+    height: 20px;
+    width: 20px;
+    left: 8px;
+    top: 15px;
+}
+
+.menu ul li {
+    position: relative;
+    display: inline;
+    padding: 10px;
+    left: 500px;
+    top: 10px;
+}
+
+section#corpo {
+    position: relative;
+    background-color: bisque;
+    top: 0px;
+    height: 400px;
+    width: 800px;
+}
+
+section#corpo h1 {
+    text-align: center;
+}
+
+section#corpo p {
+    text-align: center;
+    text-decoration: solid;
+}
+
+aside#lateral {
+    top: -311pt;
+    position: relative;
+    left: 802px;
+    width: 540px;
+    height: 400px;
+    background-color: azure;
+}
+
+aside#lateral p {
+    text-align: justify;
+    padding: 5px;
+}
+
+footer#rodape {
+    border-top: 1px solid rgb(102, 102, 100);
+    text-align: center;
+}
