@@ -38,7 +38,7 @@ section#corpo p {
 }
 
 aside#lateral {
-    top: -311pt;
+    top: -999pt;
     position: relative;
     left: 802px;
     width: 540px;
@@ -54,4 +54,17 @@ aside#lateral p {
 footer#rodape {
     border-top: 1px solid rgb(102, 102, 100);
     text-align: center;
+}
+
+article#baixo {
+    position: relative;
+    top: 0px;
+    height: 900px;
+    width: 1230px;
+    background-color: darkgray;
+}
+
+article#baixo p {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
